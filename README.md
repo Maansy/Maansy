@@ -11,6 +11,12 @@
 If you have any advice, please don't hesitate to tell me.
 
 <h3 align="left">💼 Professional Experience</h3>
+<p align="left">Python Developer at TawasolMap</p>
+<ul>
+  <li>Developed and maintained backend systems for a mobile strategy game, incorporating Python, FastAPI, Django, socket programming, gRPC, MariaDB, and MongoDB to ensure efficient real-time data transmission, robust database solutions, and seamless microservices communication.</li>
+  <li>Contributed to team efforts in designing, developing, and deploying game features, while ensuring code quality through comprehensive testing, debugging, code reviews, and continuous integration processes.</li>
+  <li>Collaborated closely with frontend developers and employed agile methodologies, maintaining active participation in sprint planning, reviews, retrospectives, and staying updated with industry trends to enhance user experience and application stability.</li>
+</ul>
 <p align="left">Backend Developer at AW Media GGMBH</p>
 <ul>
   <li>Utilized Python Flask and Flask-RESTX for backend solutions.</li>
