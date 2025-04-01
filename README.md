@@ -7,10 +7,27 @@
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/abdulrahman-mansy/">in/abdulrahman-mansy</a>
 
 <h3 align="left">🌟 About me:</h3>
-<p align="left">I'm a software engineer with 2+ years of experience in web development. I have a passion for learning and sharing my knowledge with others. I'm a fast learner, problem solver, and a team player. I'm always looking for new challenges and opportunities to grow my skills.</p>
+<p align="left">Experienced IT professional specializing in backend development using Django, Flask, Python and GO with over 5 years of expertise in
+building scalable APIs and robust systems. Proven track record of leading development teams, optimizing performance through AWS
+infrastructure management, and implementing advanced caching and messaging solutions to enhance system responsiveness.</p>
 If you have any advice, please don't hesitate to tell me.
 
 <h3 align="left">💼 Professional Experience</h3>
+<p align="left">Tech Lead at EYouth</p>
+<ul>
+  <li>Led a team of 9+ developers in designing and maintaining a scalable Learning Management System (LMS) with a Django backend,
+Go, and React frontend, enhancing user engagement by 25%.</li>
+  <li>Conducting code reviews and ensuring adherence to best practices and coding standards.</li>
+  <li>Overseeing the development and implementation of new features, ensuring high-quality code and timely delivery.</li>
+  <li>Managed AWS infrastructure (EC2, S3, RDS) and automated CI/CD pipelines, improving deployment efficiency by 40% and
+ensuring high scalability and security compliance.</li>
+  <li>Collaborating with cross-functional teams, including product managers, designers, and QA engineers, to align on project goals and
+deliverables.</li>
+  <li>Implementing caching strategies using Redis to enhance system responsiveness and reduce load times.</li>
+  <li>Fostering a culture of continuous improvement through regular team meetings, feedback sessions, and professional development
+opportunities.</li>
+  <li>Projects: PAT - EYouth DEPI - Elharefa DEPI - EYouth LMS - DFPP (ETIDA) - EYouth Hiring Portal - DEPI Round 2 (LMS) - Taibah University LMS - DFPP Interview (AI Exam) - Qaym - Mutqen</li>
+</ul>
 <p align="left">Python Developer at TawasolMap</p>
 <ul>
   <li>Developed and maintained backend systems for a mobile strategy game, incorporating Python, FastAPI, Django, socket programming, gRPC, MariaDB, and MongoDB to ensure efficient real-time data transmission, robust database solutions, and seamless microservices communication.</li>
