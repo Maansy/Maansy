@@ -65,7 +65,7 @@ opportunities.</li>
 <p align="left">Languages: Python, SQL, C#, Java Script</p>
 <p align="left">Frameworks: Flask-RESTX, FastAPI, Django, Vue</p>
 <p align="left">Databases: SQL Alchemy, SQLite, PostgreSQL, MySQL</p>
-<p align="left">Important Tools: Docker, Kubernetes, AWS, Git, GitHub</p>
+<p align="left">Important Tools: Docker, Kubernetes, AWS, Git, GitHub, GitHub Action</p>
 <p align="left">Data Analysis: Tableau, Power BI, Data Analysis Models!</p>
 
 <h3 align="left">🤝 Let's Connect!</h3>
